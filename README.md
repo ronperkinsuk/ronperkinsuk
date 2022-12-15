@@ -2,7 +2,7 @@
 
 I'm a Software Polyglot 💾 Full Stack SaaS Developer ☁️ e-Commerce Web Designer 🎨 Musician and Dancer! 🎹 who has spent the last 40+ years in the Software Industry. I've worked and dabbled in most areas of technology and software, both legacy and new.
 
-Code wise I started out back in 1981 using BASIC, and progressed to COBOL and used many variations of that. From there I became a Java Developer, and then moved into .NET using C#, VB.NET, classic ASP etc, I then moved into mobile development coding with Android and Apple Objective-C. Also worked with PHP using Laravel and Symfony, and have used Python, a bit of Golang and lots of front end JS frameworks. I've basically done a bunch of stuff 😉
+Code wise I started out back in 1981 using BASIC, and progressed to COBOL and used many variations of that. From there I became a Java Developer, and then moved into .NET using C#, VB.NET, classic ASP etc, I then moved into mobile development coding with Android and Apple Objective-C. Also worked with PHP and have used Python, a bit of Golang and lots of front end JS frameworks. I've basically done a bunch of stuff 😉
 
 ### 💾 About Me
 
