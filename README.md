@@ -8,7 +8,7 @@ Code wise I started out back in 1981 using BASIC, and progressed to COBOL and us
 
 Very much a techie at heart, I’ve been creating software and designing websites since I was a teenager and love inventing and creating tools that people love to use and get real value from.
 
-I also love building Micro-SaaS and side-businesses - helps keep the bank full and the bills paid!
+I also love building Micro-SaaS and side-businesses - helps keep the bank full and the bills paid.
 
 ### ⚡ My Github
 
