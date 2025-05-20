@@ -13,8 +13,6 @@
 
 ### 💾 About Me
 
-I'm a Software Polyglot 💾 Full Stack SaaS Developer ☁️ e-Commerce Web Designer 🎨 Musician and Dancer! 🎹 who has spent the last 40+ years in the Software Industry. I've worked and dabbled in most areas of technology and software, both legacy and new.
-
 Code wise I started out back in 1981 using BASIC, and progressed to COBOL and used many variations of that. From there I became a Java Developer, and then moved into .NET using C#, VB.NET, classic ASP etc, I then moved into mobile development coding with Android and Apple Objective-C. Also worked with PHP and have used Python, a bit of Golang and lots of front end JS frameworks. I've basically done a bunch of stuff 😉
 
 Very much a techie at heart, I’ve been creating software and designing websites since I was a teenager and love inventing and creating tools that people love to use and get real value from.
@@ -27,4 +25,4 @@ On my Github you will find lots of fun stuff. I do collect lots of old legacy co
 
 ### 📫 How to reach me
 
-The best place to find me is on [LinkedIn](https://linkedin.com/in/ronperkinsuk/) but also on [Twitter](https://twitter.com/ronperkins)
+The best place to find me is on [LinkedIn](https://linkedin.com/in/ronperkinsuk/)
