@@ -1,10 +1,20 @@
-## Hey, I'm Ron
+<img src="" width="100" height="100">
+
+# Hey, I'm Ron
+
+### I enjoy building cool - and sometimes quirky - software products. ###
+
+- I am a Software Polygot | Music Lover & Maker | and avid 30+ year Gig goer.
+- I live on a small island in the North Atlantic Ocean called Great Britain.
+- On the internet, I'm known as The Software Wizard.
+- A few of my recent projects are [The Tools Foundry (2024)](https://thetoolsfoundry.com) | [TextZformatter (2022)](https://textzformatter.com) | [zubbit.io (2016)](https://zubbit.io) | [TCFEmailMiner (2014)](https://tcfemailminer.com)
+- I also like writing classic game clones. Here are a few: [Atari Asteroids (1979)](https://ronperkins.com/asteroids) | [Spacewar (1962)](https://ronperkins.com/spacewar) | [Atari Pong (1972)](https://ronperkins.com/pong) | [Hamurabi (1978)](https://ronperkins.com/hamurabi)
+
+### 💾 About Me
 
 I'm a Software Polyglot 💾 Full Stack SaaS Developer ☁️ e-Commerce Web Designer 🎨 Musician and Dancer! 🎹 who has spent the last 40+ years in the Software Industry. I've worked and dabbled in most areas of technology and software, both legacy and new.
 
 Code wise I started out back in 1981 using BASIC, and progressed to COBOL and used many variations of that. From there I became a Java Developer, and then moved into .NET using C#, VB.NET, classic ASP etc, I then moved into mobile development coding with Android and Apple Objective-C. Also worked with PHP and have used Python, a bit of Golang and lots of front end JS frameworks. I've basically done a bunch of stuff 😉
-
-### 💾 About Me
 
 Very much a techie at heart, I’ve been creating software and designing websites since I was a teenager and love inventing and creating tools that people love to use and get real value from.
 
