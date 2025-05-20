@@ -4,10 +4,11 @@
 
 ### I enjoy building cool - and sometimes quirky - software products. ###
 
-- I am a Software Polygot | Music Lover & Maker | and avid 30+ year Gig goer.
+- I'm a Software Polyglot, Retro Game Lover 🕹️ Full Stack SaaS Developer ☁️ e-Commerce Web Designer 🎨 and Musician 🎹.
 - I live on a small island in the North Atlantic Ocean called Great Britain.
-- On the internet, I'm known as The Software Wizard.
-- A few of my recent projects are [The Tools Foundry (2024)](https://thetoolsfoundry.com) | [TextZformatter (2022)](https://textzformatter.com) | [zubbit.io (2016)](https://zubbit.io) | [TCFEmailMiner (2014)](https://tcfemailminer.com)
+- On the internet, I'm known as a ѕσƒтωαяє мανєяicк.
+- My latest project is [Orebituary (launching in 2026)](https://orebituary.com)
+- A few of my past projects [The Tools Foundry (2024)](https://thetoolsfoundry.com) | [TextZformatter (2022)](https://textzformatter.com) | [zubbit.io (2016)](https://zubbit.io) | [TCFEmailMiner (2014)](https://tcfemailminer.com)
 - I also like writing classic game clones. Here are a few: [Atari Asteroids (1979)](https://ronperkins.com/asteroids) | [Spacewar (1962)](https://ronperkins.com/spacewar) | [Atari Pong (1972)](https://ronperkins.com/pong) | [Hamurabi (1978)](https://ronperkins.com/hamurabi)
 
 ### 💾 About Me
